@@ -1,67 +1,75 @@
+
+
 [
-    {
-      "language": "Vadivelu",
-      "languageShow": "Vadivelu",
-      "languageId": 1
-    },
-    {
-      "language": "Movie Clippings",
-      "languageShow": "Movie Clippings",
-      "languageId": 2
-    },
-    {
-      "language": "Moratu Single",
-      "languageShow": "Moratu Single",
-      "languageId": 3
-    },
-    {
-      "language": "Life",
-      "languageShow": "Life",
-      "languageId": 4
-    },
-    {
-      "language": "Tik Tok",
-      "languageShow": "Tik Tok",
-      "languageId": 5
-    },
-    {
-      "language": "Bestie",
-      "languageShow": "Bestie",
-      "languageId": 6
-    },
-    {
-      "language": "Pets",
-      "languageShow": "Pets",
-      "languageId": 7
-    },
-    {
-      "language": "Kids Alaparaigal",
-      "languageShow": "Kids Alaparaigal",
-      "languageId": 8
-    },
-    {
-      "language": "90' Kids",
-      "languageShow": "90' Kids",
-      "languageId": 9
-    },
-    {
-      "language": "Little Princess",
-      "languageShow": "Little Princess",
-      "languageId": 10
-    },
-    {
-      "language": "Amma",
-      "languageShow": "Amma",
-      "languageId": 11
-    },
-    {
-      "language": "Kudi Makkals",
-      "languageShow": "Kudi Makkals",
-      "languageId": 12
-    },
-    {
-      "language": "Others",
-      "languageShow": "Others",
-      "languageId": 13
-    }
+    { 
+    "category": "Vadivelu",
+    "categoryId": 1,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/1.jpg"
+  },
+  {
+    "category": "Movie Clippings",
+    "categoryId": 2,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/2.jpg"
+  },
+  {
+    "category": "Moratu Single",
+    "categoryId": 3,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/3.jpg"
+  },
+  {
+    "category": "Life",
+    "categoryId": 4,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/4.jpg"
+  },
+  {
+    "category": "Tik Tok",
+    "categoryId": 5,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/5.jpg"
+  },
+  {
+    "category": "Bestie",
+    "categoryId": 6,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/6.jpg"
+  },
+  {
+    "category": "Pets",
+    "categoryId": 7,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/7.jpg"
+  },
+  {
+    "category": "Kids Alaparaigal",
+    "categoryId": 8,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/8.jpg"
+  },
+  {
+    "category": "90' Kids",
+    "categoryId": 9,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/9.jpg"
+  },
+  {
+    "category": "Little Princess",
+    "categoryId": 10,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/10.jpg"
+  },
+  {
+    "category": "Amma",
+    "categoryId": 11,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/11.jpg"
+  },
+  {
+    "category": "Kudi Makkals",
+    "categoryId": 12,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/12.jpg"
+  },
+  {
+    "category": "Comedy Programs",
+    "categoryId": 13,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/13.jpg"
+  },
+  {
+    "category": "Kudi Makkals",
+    "categoryId": 14,
+    "catUrl": "https://teamwokk.in/TamilComedyVideoStatus/Images/blockThree/14.jpg"
+  }
+
   ]
